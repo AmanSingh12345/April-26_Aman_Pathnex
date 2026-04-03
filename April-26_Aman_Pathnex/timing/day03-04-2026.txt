@@ -1,0 +1,11 @@
+day 3
+learnt linux command
+few scripting command
+such as $ > < >> 2>&1
+
+wrote Ansible terraform and script for user and group
+
+tomorrow's plan
+
+learn more scripting
+and linux questions
