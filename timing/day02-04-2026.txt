@@ -1,0 +1,4 @@
+2 hour revision of last class-Linux command and git+github+AWSec2
+1 hour learning of Terraform Setup and its topic- type of variable , block, meta argument
+1 hour practice of Linux command and git+github+ec2
+
