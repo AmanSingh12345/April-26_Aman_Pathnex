@@ -1,0 +1,6 @@
+Revised linux command provided by Pathnex
+went through questioms for linux
+
+chmod usermod networking command
+
+And checked git command

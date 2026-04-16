@@ -1,0 +1,14 @@
+learn bash scritping
+cronjob
+if else
+for loop
+disk space alert
+
+did homework
+wrote jenkins pipeline for build test and deploy
+
+terraform
+created ec2-instance amd security group
+
+Annsible
+created playbook for nginx

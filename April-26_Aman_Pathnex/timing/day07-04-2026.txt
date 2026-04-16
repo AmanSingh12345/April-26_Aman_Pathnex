@@ -1,0 +1,6 @@
+learnt AWS concept
+
+bash scripting
+
+if else while cronjob 
+
